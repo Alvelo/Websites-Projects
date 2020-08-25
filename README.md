@@ -9,6 +9,13 @@ Here are a list of website included:
 * Blog de Viaje
 * FreeLancer
 
+## Instructions
+
+To see the websites running  and see the result, here are list for instruction to follow:
+
+1. **Install Visual Studio Code.**
+    Here is the link to download VisualStudioCode:
+    [VisualStudioCode](https://code.visualstudio.com/)
 
 
 
